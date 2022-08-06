@@ -2,7 +2,7 @@
 A command that updates all binaries installed with `cargo`.
 
 ## Changelog
-### [v0.2 - Bouncing Beaver - 2022 - 08 - 06][v0.2]
+### [v0.2 - Bouncing Beaver - 2022-08-06][v0.2]
 #### Changed: 
 - Instead of calling `cargo install` for all packages individually, call it once with all.
 
